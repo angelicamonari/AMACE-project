@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+
+html {scroll-behavior: smooth; -webkit-font-smoothing: antialiased;}
+	body {font-family: 'Maven Pro';}
+	.test {font-family: 'Maven Pro';}
+
+/*comandi bottoni*/
+.btn-outline-success{margin-top: 2px; margin-bottom: 2px; margin-right: 5px; margin-left: 5px;}
+.page-link {color: #408c40}
+.dropdown-menu a:hover {background-color: #d9d9d9}
+
+/*carousel*/
+.carousel-caption {background-color: rgba(64, 140, 64, .6); left: 0; right: 0; width: 100%;}
+.carousel-caption > h5 {font-size: 2em; color: #ffffff;}
+.carousel-caption > p {font-size: 1.5em; color: #ffffff;}
+
+.carousel-home img {height: 80vh;}
+@media screen and (max-width: 769px) {
+    .carousel-home .carousel-item > img {height: auto;}
+}
+
+/*comandi riguardanti le card di ricerca della home*/
+.image {display: block; width: 100%; height: 290;}
+.overlay {position: absolute; bottom: 100%; left: 0; right: 0; background-color: #408c40; overflow: hidden; width: 100%; height: 0; transition: .5s ease;}
+.info {position: relative; width: auto;}
+.info:hover .overlay {bottom: 0; height: 100%;}
+.info a:hover {color: #ff8c1a; text-decoration: underline}
+.text-image {white-space: nowrap; color: white; font-size: 20px; position: absolute; overflow: hidden; top: 50%; left: 50%; transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%); text-decoration: none}
+
+/*logo presente nella pagina lista*/
+.logo {width: 50px; height: auto;}
+
+/*tutti i background*/
+.background-footer {background-color: #408c40; height:500px;}
+.background-shadowpurple {background-color: #F5F0FF;}
+.background-green {background-color: #267326;}
+
+.breadcrumb > ol > li {color: rgba(0, 0, 0, .5); display: inline; font-size: .8em;}
+.btn-list ul > li {list-style: none; position: relative;}
+
+
+/*comandi per il footer*/
+.link a:link {color: whitesmoke; background-color: transparent; text-decoration: none;}
+.link a:hover {color: skyblue; background-color: transparent; text-decoration: underline;}
+.contact  ul > li {list-style: none; position: relative;}
+.mail {margin-left: 150px; margin-right: 150px;}
+.contact frame {width: 250 ; height: 150; border : 0; }
+/*comandi icone social footer*/
+.background-footers button {margin-top: 1px; margin-bottom: px; margin-right: 1px ;width: 30px; height: auto; position: center; border: none;}
+.background-footers button:hover {color: #ff8c1a; background-color: transparent;}
+
+/* card lista */
+.card-item .btn-outline-success {width: 100%;}
+.card-item > .card-body > .card-metadata {height: 180px;}
+.card-metadata h4 {font-size: 1.5em; font-weight: bold; color: black}
+
+@media screen and (max-width: 1025px) {
+    .card-item > .card-body > .card-metadata {height: 300px;}
+}
+
+.card-item img {height: 300px;}
+
+@media screen and (min-width: 575px) and (max-width: 813px) {
+    .card-item img {height: 200px;}
+}
+
+@media screen and (min-width: 2000px) {
+    .card-item img {height: 500px;}
+}
+
+
+/*card-hover-lista*/
+.cards:hover, .card-items:hover {
+            box-shadow: 0px 5px 40px -10px rgb(230, 230, 230, .9); 
+            -webkit-box-shadow: 0px 5px 40px -10px rgba(38, 44, 52, .9); 
+            -moz-box-shadow: 0px 5px 40px -10px rgba(38, 44, 52, .9);
+             transform: scale(1.1);
+             transition: transform 0.2s ease;
+}
+
+
+
+/*link card*/
+.card-metadata a {color: #267326; text-decoration: none;}
+.card-metadata a:hover {color: #ff8c1a; background-color: transparent;text-decoration: underline;}
+.btn-xml a {color: #ff8c1a;}
+.btn-xml a:hover {color: #ff8c1a; background-color: transparent;text-decoration: underline;}
+
+
+
+/*icone card*/
+.card-item i {color: #408c40;}
+.card-item i:hover {color: #ff8c1a;}
+.card-item span {background-color: #F5F0FF; border-radius: .25rem; font-size: 1.5em; position: absolute; z-index: auto;}
+.card-item span:hover {color: #ff8c1a; background-color: #eee6ff;}
+
+
+
+/*item-bill_item-persona*/
+.list-group-item a {color: #267326; text-decoration: none;}
+.list-group-item a:hover {color: #ff8c1a; background-color: transparent;text-decoration: underline;}
+.cardb:hover, .cardb-item:hover {box-shadow: 0px 5px 40px -10px rgba(122, 144, 173, .9); 
+    -webkit-box-shadow: 0px 5px 40px -10px rgba(38, 44, 52, .9); 
+    -moz-box-shadow: 0px 5px 40px -10px rgba(38, 44, 52, .9);}
+.cardv {width: 820px;}
+
+
+
+
+
+
+
+
+

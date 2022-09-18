@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archivio xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dcterms="http://purl.org/dc/terms/" xml:id="AMACE">
+		<item id="thepassing" xml:id="AMACE-ThePassing">
+<dc:title>The Passing</dc:title>
+<dc:creator>Viola,Bill</dc:creator>
+<dc:subject type="Categoria"> Video-Film; Video art; Electronic art; New media art </dc:subject>
+<dc:subject type="Classificazione">Genere; opera; Bill Viola </dc:subject>
+<dc:description xml:lang="it">
+	<video src="https://youtu.be/PobXKwTJLfk"/>
+		<subject>The Passing</subject>
+		, 
+		<subject>Video-Film</subject> 
+		scritto e diretto da 
+		<creator>Bill Viola</creator>
+		è una risposta personale agli estremi spirituali della nascita e della morte in una famiglia. Composta da immagini notturne e da scene girate sott'acqua, quest'
+		<subject>opera in bianco e nero</subject> 
+		dipinge un mondo crepuscolare ai confini delle percezioni e delle conoscenze umane, là dove si confondono le vite multiple dello spirito (la memoria, la realtà, l'infanzia e le vecchiaia).
+</dc:description>
+<dc:date>1991</dc:date>
+<dc:type>Video</dc:type>
+<dc:duration>54'</dc:duration>
+<dc:coverage>New York - The Museum of Modern Art</dc:coverage> 
+<dc:identifier type="permalink">https://www.moma.org/collection/works/118326</dc:identifier>
+<dc:identifier type="MOMA-inventario">549.1992</dc:identifier>
+</item>
+</archivio>

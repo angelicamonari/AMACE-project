@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archivio xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:dcterms="http://purl.org/dc/terms/" xml:id="AMACE">
+		<author id="Viola,Bill" xml:id="AMACE-ViolaBill">
+<dc:creator>Viola,Bill</dc:creator>
+<dc:subject type="Categoria"> Video-Film; Video art; Electronic art; New media art; Visual e Performing Arts </dc:subject>
+<dc:subject type="Classificazione">Persona; Opera; Documentario; Mostre; Bill Viola; Video artista</dc:subject>
+<dc:description xml:lang="it">
+	<img src="https://www.billviola.com/biograph.htm"/>
+</dc:description>
+<dc:bibliographicCitation>
+	<subject>Italo-americano</subject>
+	, nasce nel 
+	<subject>Queens</subject> nel 
+	<date>1951</date>
+	. A sei anni, durante una vacanza, rischia la morte per annegamento cadendo in un lago, ma prontamente lo zio lo salva. Quest'esperienza, da lui descritta come "la più bella della sua vita, pacifica e senza paura", getta le basi per la sua vita artistica, e soprattutto il frequente uso dell'acqua nelle sue opere. Nel 1969 si iscrive alla facoltà di arte della Syracuse University, dove studia pittura e musica elettronica. Qui consegue la laurea nel 1973 in
+	<subject>Visual e Performing Arts</subject>
+ 	. In questi anni coltiva la passione per il cinema sperimentale e la musica elettronica, suonando con il gruppo musicale Composers Inside Electronics.</dc:bibliographicCitation>
+<dc:date>25/01/1951</dc:date>
+<dc:provenance>Stati Uniti - Queens</dc:provenance> 
+<dc:identifier type="permalink">http://viaf.org/viaf/54262276</dc:identifier>
+<dc:identifier type="uri">http://id.loc.gov/authorities/names/n85006497</dc:identifier>
+</author>
+</archivio>
