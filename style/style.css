@@ -37,7 +37,7 @@ html {scroll-behavior: smooth; -webkit-font-smoothing: antialiased;}
 .background-shadowpurple {background-color: #F5F0FF;}
 .background-green {background-color: #267326;}
 
-.breadcrumb > ol > li {color: rgba(0, 0, 0, .5); display: inline; font-size: .8em;}
+.breadcrumb ol > li {color: rgba(0, 0, 0, .5); display: inline; font-size: .8em;}
 .btn-list ul > li {list-style: none; position: relative;}
 
 
